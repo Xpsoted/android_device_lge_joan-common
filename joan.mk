@@ -423,7 +423,7 @@ PRODUCT_PACKAGES += \
 
 # Vibrator
 PRODUCT_PACKAGES += \
-    android.hardware.vibrator@1.2-service.joan
+    android.hardware.vibrator@1.2-service.lge
 
 # VR HAL
 PRODUCT_PACKAGES += \
